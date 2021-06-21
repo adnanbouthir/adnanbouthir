@@ -30,5 +30,5 @@
 </a>
 
 <a href="https://github.com/adnanbouthir?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoussefBouhalla&line_height=40&show_icons=true&theme=dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanbouthir&line_height=40&show_icons=true&theme=dark">
 </a>

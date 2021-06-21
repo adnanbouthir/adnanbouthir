@@ -1,6 +1,6 @@
 ### Hi there, I'm Adnan 👋
 
-## I'm a Student, Developer, and CSS lover ❤!!
+## I'm a Student, Developer, and php lover ❤!!
 
 - 🔭 currently working on a freelance project
 - 🌱 I’m also currently learning Vue.js

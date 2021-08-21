@@ -2,8 +2,8 @@
 
 ## I'm a Student, Developer, and php lover ❤!!
 
-- 🔭 currently working on a freelance project
-- 🌱 I’m also currently learning Vue.js
+- 🔭 currently working on improving my frontend skills
+- 🌱 I’m also currently learning design systems
 - 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: start freelancing and improve myself more
 - ⚡ Fun fact: I love gaming and going on bike rides

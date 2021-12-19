@@ -1,12 +1,11 @@
 ### Hi there, I'm Adnan 👋
 
-## I'm a Student, Developer, and php lover ❤!!
+## I'm a Student, Developer, and Js lover ❤!!
 
 - 🔭 currently working on improving my frontend skills
-- 🌱 I’m also currently learning design systems
+- 🌱 I’m also CS on cs50x
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: start freelancing and improve myself more
-- ⚡ Fun fact: I love gaming and going on bike rides
+- 🥅 2022 Goals: start freelancing and improve myself more
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31padjfhsdrcfpcpzichwslhuryy?si=93643ba34b5b4036)

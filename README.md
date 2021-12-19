@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Js lover ❤!!
 
 - 🔭 currently working on improving my frontend skills
-- 🌱 I’m also CS on cs50x
+- 🌱 I’m also learning CS on harvard's  cs50x
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: start freelancing and improve myself more
 ### Spotify Playing 🎧

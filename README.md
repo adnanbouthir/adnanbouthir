@@ -1,6 +1,6 @@
 ### Hi there, I'm Adnan 👋
 
-## I'm a Student, Developer, and Js lover ❤!!
+## I'm a Student, Developer
 
 - 🔭 currently working on improving my frontend skills
 - 🌱 I’m also learning CS on harvard's  cs50x

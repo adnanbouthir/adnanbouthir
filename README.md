@@ -1,11 +1,9 @@
 ### Hi there, I'm Adnan 👋
 
-## I'm a Student, Developer
+## I'm an SRE/Sys support engineer
 
-- 🔭 currently working on improving my frontend skills
-- 🌱 I’m also learning CS on harvard's  cs50x
-- 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: start freelancing and improve myself more
+- 🔭 currently working on improving my skillset and automate the boring stuff :)
+- 👯 Always looking to collaborate with others
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31padjfhsdrcfpcpzichwslhuryy?si=93643ba34b5b4036)

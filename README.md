@@ -1,9 +1,8 @@
-### Hi there, I'm Adnan 👋
+### Hi, I'm Adnan 👋
 
-## I'm an SRE/Sys support engineer
+## I'm an SRE
+- 🔭 always  looking to improving my skillset and automating the boring stuff :)
 
-- 🔭 currently working on improving my skillset and automate the boring stuff :)
-- 👯 Always looking to collaborate with others
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31padjfhsdrcfpcpzichwslhuryy?si=93643ba34b5b4036)
